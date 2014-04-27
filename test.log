@@ -1,0 +1,16 @@
+功能: 就是试试 别紧张 # features/test.feature:1
+
+  场景: 徐楠       # features/test.feature:3
+    假如 你是猪     # features/steps/step.py:5
+    而且 你是猴     # features/steps/step.py:9
+      Traceback (most recent call last):
+        File "/Users/apple/.virtualenvs/test/lib/python2.7/site-packages/behave/model.py", line 1173, in run
+          match.run(runner.context)
+        File "/Users/apple/.virtualenvs/test/lib/python2.7/site-packages/behave/model.py", line 1589, in run
+          self.func(context, *args, **kwargs)
+        File "/Users/apple/Documents/mytestfile/behave-test/features/steps/step.py", line 11, in step_impl
+          assert 1 == 2
+      AssertionError
+
+    那么 你肯定认识唐僧 # None
+

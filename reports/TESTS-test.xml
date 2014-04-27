@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite errors="0" failures="0" name="test.就是试试 别紧张" skipped="0" tests="2" time="0.000799"><testcase classname="test.就是试试 别紧张" name="徐楠" status="passed" time="0.000392"><system-out>
+<![CDATA[
+@scenario.begin
+  场景: 徐楠
+    假如 你是猪 ... passed in 0.000s
+    而且 你是猴 ... passed in 0.000s
+    假如 你是猪 ... passed in 0.000s
+    而且 你是猴 ... passed in 0.000s
+    那么 你肯定认识唐僧 ... passed in 0.000s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase><testcase classname="test.就是试试 别紧张" name="宋琳" status="passed" time="0.000407"><system-out>
+<![CDATA[
+@scenario.begin
+  场景: 宋琳
+    假如 你是猪 ... passed in 0.000s
+    而且 你是猴 ... passed in 0.000s
+    假如 你是猪 ... passed in 0.000s
+    而且 你是猴 ... passed in 0.000s
+    那么 你肯定认识唐僧 ... passed in 0.000s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>
