@@ -1,0 +1,3 @@
+[behave]
+lang=zh-CN
+outfile=/Users/apple/Documents/mytestfile/behave-test/test.log
